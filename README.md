@@ -6,6 +6,8 @@ The code is organized in 'WorkOnIMDb.ipynb' with Jupyter Notebook.
 The code is expected to run with Google Colab environment. 
 The data folder need to be placed in the 'Colab Notebooks/AML-Coursework' directory and thus the code can run directly.
 
+If you run the code locally, please check the dataset is placed in a proper directory w.r.t the code in part1 (Load data) or change the data loading code accordingly. 
+
 # Processing Instructions
 Code comments have been added within the provided Jupyter Notebook. Please check the notations to figure out the code logic.
 
